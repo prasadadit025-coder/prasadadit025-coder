@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Aditya Prasad
 
-<!--
-**prasadadit025-coder/prasadadit025-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year Engineering Student  
+💻 Learning Java & Data Structures  
+🚀 Preparing for Software Developer Roles  
 
-Here are some ideas to get you started:
+## 🧠 Currently Learning
+- Java Basics
+- Loops
+- Arrays
+- Data Structures & Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 My Projects
+- Java DSA Journey
+
+## 📈 Goals
+- Master DSA
+- Build strong GitHub profile
+- Crack software developer interviews
